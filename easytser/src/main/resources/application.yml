@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: easytser
+    
+server:
+  port: 8081
